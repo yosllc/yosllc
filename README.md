@@ -1,4 +1,7 @@
 ## Hi there 👋
+## © 2025 YOS LLC.  
+YO.S™ is a trademark of YOS LLC.  
+All rights reserved.
 
 <!--
 **yosllc/yosllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
